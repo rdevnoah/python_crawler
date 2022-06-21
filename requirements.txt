@@ -6,7 +6,7 @@ chardet==3.0.4
 django-mathfilters==0.4.0
 idna==2.8
 multidict==4.5.2
-numpy==1.16.4
+numpy==1.22.0
 pandas==0.24.2
 psycopg2==2.7.5
 python-dateutil==2.8.0
